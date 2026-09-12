@@ -1,2 +1,8 @@
 # feature-monotonicity-check
-Check ordered feature values against monotonic business constraints.
+
+Detect monotonicity violations in ordered numeric feature series.
+
+```bash
+python -m unittest -v
+```
+MIT licensed.
